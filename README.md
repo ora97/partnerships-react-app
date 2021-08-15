@@ -1,4 +1,4 @@
-Patnerships React App
+# Patnerships React App
 
 # Getting Started with Create React App
 
