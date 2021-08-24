@@ -22,9 +22,9 @@ class Header extends Component {
 
         return(
             <div>
-                <Navbar color='dark' dark expand='md' sticky='top'>
+                <Navbar className="m-auto" color='dark' dark expand='md' sticky='top'>
                     <NavbarBrand to="/">
-                        On Partners
+                        OnPartners
                     </NavbarBrand>
                     <NavbarToggler onClick={this.toggleNav} />
                     <Collapse isOpen={this.state.isNavOpen} navbar>
